@@ -1,21 +1,85 @@
-# Majd Al-Hader
-### Java Backend Developer
-Spring Boot · REST APIs · Microservices · PostgreSQL · MySQL
+<p align="center">
+  <img src="./assets/backend-banner.svg" width="100%" alt="Majd Al-Hader — Java Backend Developer" />
+</p>
 
-I'm a Java Developer at Inspire for Solutions Development, based in Jordan. I work on backend services, external API integrations, relational databases, and JasperReports.
+<p align="center">
+  <a href="https://www.linkedin.com/in/majd-al-hader-056113228/"><strong>Connect on LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="#selected-projects"><strong>Explore my projects ↓</strong></a>
+</p>
 
-I hold a B.Sc. in Computer Information Systems from the University of Jordan.
+---
 
-## Selected projects
-- [JU Activity Approval System](https://github.com/AlhaderMajd/Graduation-Project): Spring Boot, MySQL, and JWT.
-- [Book Social Network](https://github.com/AlhaderMajd/book-social-network): book sharing, borrowing, authentication, and PostgreSQL.
-- [Database Vertical Fragmentation Analysis](https://github.com/AlhaderMajd/Database-Vertical-Fragmentation-Analysis): interactive database analysis.
-- [Library Management System](https://github.com/AlhaderMajd/SpringBootLibraryManagementSystem): books, users, and role-based access.
+### About me
 
-## Toolkit
-Java, Spring Boot, Spring Security, JPA / Hibernate, SQL, Git, Docker, Postman, IntelliJ IDEA, DataGrip, OpenShift, IBM API Connect, JasperReports.
+I'm a **Java Developer at Inspire for Solutions Development**, based in Jordan. I work on backend services, external API integrations, relational databases, and JasperReports.
 
-## Learning focus
-Spring Security, distributed systems, testing, and service integration.
+**B.Sc. in Computer Information Systems — University of Jordan**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/majd-al-hader-056113228/)
+### Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [JU Activity Approval System](https://github.com/AlhaderMajd/Graduation-Project)
+University activity management backend.
+
+**Spring Boot · MySQL · JWT**
+
+[Explore code & setup →](https://github.com/AlhaderMajd/Graduation-Project#readme)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Book Social Network](https://github.com/AlhaderMajd/book-social-network)
+Book sharing, borrowing, and authentication.
+
+**Spring Boot · PostgreSQL**
+
+[Explore code & setup →](https://github.com/AlhaderMajd/book-social-network#readme)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Database Fragmentation Analysis](https://github.com/AlhaderMajd/Database-Vertical-Fragmentation-Analysis)
+Interactive database analysis.
+
+**Database design · Attribute affinity**
+
+[Explore the project →](https://github.com/AlhaderMajd/Database-Vertical-Fragmentation-Analysis#readme)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Library Management System](https://github.com/AlhaderMajd/SpringBootLibraryManagementSystem)
+Books, users, and role-based access.
+
+**Java · Spring Boot · MySQL**
+
+[Explore the project →](https://github.com/AlhaderMajd/SpringBootLibraryManagementSystem)
+
+</td>
+</tr>
+</table>
+
+### Technical toolkit
+
+| Backend | Data & persistence | Development & integration |
+| :--- | :--- | :--- |
+| **Java** · Spring Boot | **PostgreSQL** · MySQL | Git · Docker · OpenShift |
+| Spring Security · REST APIs | SQL · JPA / Hibernate | Postman · IBM API Connect |
+| Microservices | JasperReports | IntelliJ IDEA · DataGrip |
+
+### Current focus
+
+**Spring Security** &nbsp; / &nbsp; **Distributed systems** &nbsp; / &nbsp; **Testing** &nbsp; / &nbsp; **Service integration**
+
+---
+
+<p align="center">
+  <strong>Java backend engineering · APIs · Relational databases</strong><br />
+  <a href="https://www.linkedin.com/in/majd-al-hader-056113228/">Let's connect on LinkedIn</a>
+</p>
